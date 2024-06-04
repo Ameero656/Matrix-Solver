@@ -18,6 +18,10 @@
         "vector": "cpp",
         "xmemory": "cpp",
         "xtr1common": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "bit": "cpp",
+        "map": "cpp",
+        "xstddef": "cpp",
+        "xtree": "cpp"
     }
 }
